@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Shopping.Services.Library.Localization/1.0.0": {
+        "runtime": {
+          "Shopping.Services.Library.Localization.dll": {}
+        },
+        "resources": {
+          "tr/Shopping.Services.Library.Localization.resources.dll": {
+            "locale": "tr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping.Services.Library.Localization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

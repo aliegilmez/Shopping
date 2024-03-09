@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\Mongo\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Atlas.Framework.Data.Mysql" Version="1.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Atlas.Framework.Data.Mysql">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Data.Mysql.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

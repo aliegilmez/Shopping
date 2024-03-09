@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "aBVwUU8UL8YNc35KScjsH0Te9adLAAzKrCRoSEpZFfRia/lIeJmv+OkklIswMC0CioTqZQhUCr+FLwoBOohi4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data.Repositories\\Shopping.Services.Data.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alieg\\.nuget\\packages\\atlas.framework.data.abstractions\\1.0.4\\atlas.framework.data.abstractions.1.0.4.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\atlas.framework.data.mysql\\1.0.6\\atlas.framework.data.mysql.1.0.6.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.16\\microsoft.entityframeworkcore.7.0.16.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.16\\microsoft.entityframeworkcore.abstractions.7.0.16.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.16\\microsoft.entityframeworkcore.analyzers.7.0.16.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\alieg\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.1\\pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

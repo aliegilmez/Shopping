@@ -1,0 +1,11 @@
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\bin\Debug\net7.0\Shopping.Services.Library.Dto.deps.json
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\bin\Debug\net7.0\Shopping.Services.Library.Dto.dll
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\bin\Debug\net7.0\Shopping.Services.Library.Dto.pdb
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\Shopping.Services.Library.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\Shopping.Services.Library.Dto.AssemblyInfoInputs.cache
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\Shopping.Services.Library.Dto.AssemblyInfo.cs
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\Shopping.Services.Library.Dto.csproj.CoreCompileInputs.cache
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\Shopping.Services.Library.Dto.dll
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\refint\Shopping.Services.Library.Dto.dll
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\Shopping.Services.Library.Dto.pdb
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Dto\obj\Debug\net7.0\ref\Shopping.Services.Library.Dto.dll

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Application\Shopping.Services.Application.Abstractions\Shopping.Services.Application.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Atlas.Framework.Data.Mysql">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Data.Mysql.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

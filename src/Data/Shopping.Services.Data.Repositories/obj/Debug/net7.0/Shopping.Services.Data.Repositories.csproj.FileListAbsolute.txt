@@ -1,0 +1,17 @@
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Data.Repositories.deps.json
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Data.Repositories.dll
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Data.Repositories.pdb
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Application.Abstractions.dll
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Data.dll
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Application.Abstractions.pdb
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\bin\Debug\net7.0\Shopping.Services.Data.pdb
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.csproj.AssemblyReference.cache
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.AssemblyInfoInputs.cache
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.AssemblyInfo.cs
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.csproj.CopyComplete
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.dll
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\refint\Shopping.Services.Data.Repositories.dll
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\Shopping.Services.Data.Repositories.pdb
+C:\Projects\Dev\Shopping\src\Data\Shopping.Services.Data.Repositories\obj\Debug\net7.0\ref\Shopping.Services.Data.Repositories.dll

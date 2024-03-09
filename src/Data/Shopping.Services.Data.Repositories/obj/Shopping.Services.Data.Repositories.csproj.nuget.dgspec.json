@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data.Repositories\\Shopping.Services.Data.Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Dev\\Shopping\\src\\Application\\Shopping.Services.Application.Abstractions\\Shopping.Services.Application.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Dev\\Shopping\\src\\Application\\Shopping.Services.Application.Abstractions\\Shopping.Services.Application.Abstractions.csproj",
+        "projectName": "Shopping.Services.Application.Abstractions",
+        "projectPath": "C:\\Projects\\Dev\\Shopping\\src\\Application\\Shopping.Services.Application.Abstractions\\Shopping.Services.Application.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\alieg\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Dev\\Shopping\\src\\Application\\Shopping.Services.Application.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alieg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data\\Shopping.Services.Data.csproj": {
+                "projectPath": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data\\Shopping.Services.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data.Repositories\\Shopping.Services.Data.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data.Repositories\\Shopping.Services.Data.Repositories.csproj",
+        "projectName": "Shopping.Services.Data.Repositories",
+        "projectPath": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data.Repositories\\Shopping.Services.Data.Repositories.csproj",
+        "packagesPath": "C:\\Users\\alieg\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alieg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\Dev\\Shopping\\src\\Application\\Shopping.Services.Application.Abstractions\\Shopping.Services.Application.Abstractions.csproj": {
+                "projectPath": "C:\\Projects\\Dev\\Shopping\\src\\Application\\Shopping.Services.Application.Abstractions\\Shopping.Services.Application.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data\\Shopping.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data\\Shopping.Services.Data.csproj",
+        "projectName": "Shopping.Services.Data",
+        "projectPath": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data\\Shopping.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\alieg\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Dev\\Shopping\\src\\Data\\Shopping.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alieg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Atlas.Framework.Data.Mysql": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

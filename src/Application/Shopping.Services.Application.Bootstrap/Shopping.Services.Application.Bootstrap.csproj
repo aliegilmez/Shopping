@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Atlas.Framework.CleanArchitecture" Version="1.0.2" />
+    <PackageReference Include="Atlas.Framework.Localization" Version="1.0.2" />
+    <PackageReference Include="Atlas.Framework.Localization.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Atlas.Framework.Web" Version="1.1.5" />
+    <PackageReference Include="Atlas.Framework.Web.Abstractions" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\Shopping.Services.Data.Repositories\Shopping.Services.Data.Repositories.csproj" />
+    <ProjectReference Include="..\..\Library\Shopping.Services.Library.Localization\Shopping.Services.Library.Localization.csproj" />
+    <ProjectReference Include="..\Shopping.Services.Application.Command\Shopping.Services.Application.Command.csproj" />
+    <ProjectReference Include="..\Shopping.Services.Application.Query\Shopping.Services.Application.Query.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Atlas.Framework.Core">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Atlas.Framework.Localization">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Localization.dll</HintPath>
+    </Reference>
+    <Reference Include="Atlas.Framework.Localization.Abstractions">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Localization.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Atlas.Framework.Web">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Atlas.Framework.Web.Abstractions">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Web.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

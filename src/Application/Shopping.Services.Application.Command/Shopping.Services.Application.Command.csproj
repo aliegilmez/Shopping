@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Atlas.Framework.CleanArchitecture" Version="1.0.2" />
+    <PackageReference Include="Atlas.Framework.Data.Abstractions" Version="1.0.6" />
+  </ItemGroup>
+
+</Project>

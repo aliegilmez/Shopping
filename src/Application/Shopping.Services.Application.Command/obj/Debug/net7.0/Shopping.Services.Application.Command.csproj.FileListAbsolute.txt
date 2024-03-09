@@ -1,0 +1,12 @@
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\bin\Debug\net7.0\Shopping.Services.Application.Command.deps.json
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\bin\Debug\net7.0\Shopping.Services.Application.Command.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\bin\Debug\net7.0\Shopping.Services.Application.Command.pdb
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.csproj.AssemblyReference.cache
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.AssemblyInfoInputs.cache
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.AssemblyInfo.cs
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.csproj.CoreCompileInputs.cache
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\refint\Shopping.Services.Application.Command.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\Shopping.Services.Application.Command.pdb
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Command\obj\Debug\net7.0\ref\Shopping.Services.Application.Command.dll

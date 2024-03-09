@@ -1,0 +1,33 @@
+{
+  "help": "https://go.microsoft.com/fwlink/?linkid=866610",
+  "root": false,
+  "dependentFileProviders": {
+    "add": {
+      "fileSuffixToExtension": {
+        "add": {
+          "ExceptionHandler.cs": [
+            ".cs"
+          ],
+          "Handler.cs": [
+            ".cs"
+          ],
+          "PostProcessor.cs": [
+            ".cs"
+          ],
+          "PreProcessor.cs": [
+            ".cs"
+          ],
+          "Request.cs": [
+            ".cs"
+          ],
+          "Response.cs": [
+            ".cs"
+          ],
+          "Validator.cs": [
+            ".cs"
+          ]
+        }
+      }
+    }
+  }
+}

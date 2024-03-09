@@ -1,0 +1,11 @@
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\bin\Debug\net7.0\Shopping.Services.Library.Common.deps.json
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\bin\Debug\net7.0\Shopping.Services.Library.Common.dll
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\bin\Debug\net7.0\Shopping.Services.Library.Common.pdb
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\Shopping.Services.Library.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\Shopping.Services.Library.Common.AssemblyInfoInputs.cache
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\Shopping.Services.Library.Common.AssemblyInfo.cs
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\Shopping.Services.Library.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\Shopping.Services.Library.Common.dll
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\refint\Shopping.Services.Library.Common.dll
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\Shopping.Services.Library.Common.pdb
+C:\Projects\Dev\Shopping\src\Library\Shopping.Services.Library.Common\obj\Debug\net7.0\ref\Shopping.Services.Library.Common.dll

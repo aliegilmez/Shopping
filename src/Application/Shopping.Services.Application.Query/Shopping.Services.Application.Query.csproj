@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Atlas.Framework.CleanArchitecture" Version="1.0.2" />
+    <PackageReference Include="Atlas.Framework.Data.Abstractions" Version="1.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Library\Shopping.Services.Library.Common\Shopping.Services.Library.Common.csproj" />
+    <ProjectReference Include="..\..\Library\Shopping.Services.Library.Dto\Shopping.Services.Library.Dto.csproj" />
+    <ProjectReference Include="..\Shopping.Services.Application.Abstractions\Shopping.Services.Application.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Atlas.Framework.CleanArchitecture">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.CleanArchitecture.dll</HintPath>
+    </Reference>
+    <Reference Include="Atlas.Framework.Core">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Atlas.Framework.Data.Mysql">
+      <HintPath>..\..\..\External Dlls\Atlas.Framework.Data.Mysql.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\bin\Debug\net7.0\Shopping.Services.Application.Abstractions.deps.json
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\bin\Debug\net7.0\Shopping.Services.Application.Abstractions.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\bin\Debug\net7.0\Shopping.Services.Application.Abstractions.pdb
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\bin\Debug\net7.0\Shopping.Services.Data.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\bin\Debug\net7.0\Shopping.Services.Data.pdb
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.csproj.AssemblyReference.cache
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.AssemblyInfoInputs.cache
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.AssemblyInfo.cs
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.csproj.CoreCompileInputs.cache
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.csproj.CopyComplete
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\refint\Shopping.Services.Application.Abstractions.dll
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\Shopping.Services.Application.Abstractions.pdb
+C:\Projects\Dev\Shopping\src\Application\Shopping.Services.Application.Abstractions\obj\Debug\net7.0\ref\Shopping.Services.Application.Abstractions.dll
